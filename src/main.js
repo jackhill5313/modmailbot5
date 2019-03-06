@@ -180,6 +180,11 @@ bot.on('messageCreate', async msg => {
   }
 });
 
+var http = require("http");
+setInterval(function() {
+    http.get("http://hetaliabot2.herokuapp.com");
+}, 900000);
+
 module.exports = {
   async start() {
     // Load modules
