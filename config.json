@@ -4,6 +4,10 @@
   "mainGuildId": "265565751010787328",
   "logChannelId": "552670007473995776",
   "relaySmallAttachmentsAsAttachments": "true",
+  "typingProxy": "true",
+  "typingProxyReverse": "true",
+  "useNicknames": "true",
+ 
 
   "status": "Modmail!",
 }
