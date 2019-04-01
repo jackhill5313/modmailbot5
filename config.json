@@ -3,6 +3,7 @@
   "mailGuildId": "552666866535890945",
   "mainGuildId": "265565751010787328",
   "logChannelId": "552670007473995776",
+  "relaySmallAttachmentsAsAttachments": "true",
 
   "status": "Modmail!",
 }
